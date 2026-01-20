@@ -1,0 +1,7 @@
+{
+  "name": "Anglo pH-Calib Pro DUAS E MEIA DA MANHÃ",
+  "description": "Smart application for automated pH analyzer verification and calibration reporting with AI-driven validation and analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
